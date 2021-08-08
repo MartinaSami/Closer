@@ -14,5 +14,8 @@ app screens ![splash](https://user-images.githubusercontent.com/64072468/1140693
 ![succesfull](https://user-images.githubusercontent.com/64072468/114069937-cf4bb780-989f-11eb-8c8f-4474c27fb0e4.png)
 ![your location-1](https://user-images.githubusercontent.com/64072468/114070010-e12d5a80-989f-11eb-843e-870518c86c52.png)
 ![rate](https://user-images.githubusercontent.com/64072468/114070074-eee2e000-989f-11eb-9cbf-da2d61ad76af.png)
-
+![rate1](https://user-images.githubusercontent.com/77443413/128641836-a114d7ea-a776-436e-a921-0bdee4dd7239.jpeg)
+![rate2](https://user-images.githubusercontent.com/77443413/128641839-da9b5158-48b6-4ed5-9002-14e4f080a993.jpeg)
+![rate3](https://user-images.githubusercontent.com/77443413/128641841-79a80570-1fa5-425b-8427-6096e46b2066.jpeg)
+![rate4](https://user-images.githubusercontent.com/77443413/128641844-de1efe6c-b76e-4b3f-baf7-26f83f4732bd.jpeg)
 
