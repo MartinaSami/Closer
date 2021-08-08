@@ -1,5 +1,4 @@
-
-https://drive.google.com/file/d/1kDHP-YLCQLhGCQEhH_xFoKePsAOnX7dO/view?usp=sharing
+Driver is a Flutter UI application using GoogleMpas
 
 app screens ![splash](https://user-images.githubusercontent.com/64072468/114069331-2bfaa280-989f-11eb-9b84-1d1d0fb5d408.png)
 ![splash – 2](https://user-images.githubusercontent.com/64072468/114069479-52204280-989f-11eb-8f07-a18a72bb7857.png)
